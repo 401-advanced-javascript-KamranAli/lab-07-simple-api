@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Jim Halpert",
+      "display_name": "Jim",
+      "description": "Sales"
+    },
+    {
+      "_id": 2,
+      "name": "Pam Beesly",
+      "display_name": "Pam",
+      "type": "Reception"
+    },
+    {
+      "_id": 3,
+      "name": "Creed Bratton",
+      "display_name": "Creed",
+      "type": "Quality Assruance"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Paper Sales",
+      "name": "Dunder Mifflin Paper Company Inc.",
+      "display_name": "Dunder Mifflin",
+      "description": "Paper Company"
+    },
+    {
+      "_id": 2,
+      "category": "Electronics",
+      "name": "Sabre Electronics Compant",
+      "display_name": "Dunder Mifflin",
+      "description": "Electronics Company"
+    }
+  ]
+}
