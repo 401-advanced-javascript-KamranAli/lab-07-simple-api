@@ -6,7 +6,7 @@
 
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-KamranAli/lab-06-mongoose/pull/1)
+* [submission PR](https://github.com/401-advanced-javascript-KamranAli/lab-07-simple-api/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-KamranAli/lab-06-mongoose/builds/128954975)
 
 #### Documentation
