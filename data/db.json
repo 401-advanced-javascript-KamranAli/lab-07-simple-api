@@ -17,6 +17,21 @@
       "name": "Creed Bratton",
       "display_name": "Creed",
       "type": "Quality Assruance"
+    },
+    {
+      "_id": 4
+    },
+    {
+      "_id": 5,
+      "name": "Michale Scott",
+      "display_name": "Michael",
+      "description": "Manager"
+    },
+    {
+      "_id": 6,
+      "name": "Dwight Schrute",
+      "display_name": "Dwight",
+      "description": "A.A.R.M"
     }
   ],
   "products": [
@@ -32,6 +47,13 @@
       "category": "Electronics",
       "name": "Sabre Electronics Compant",
       "display_name": "Dunder Mifflin",
+      "description": "Electronics Company"
+    },
+    {
+      "_id": 3,
+      "category": "Electronics",
+      "name": "Staples",
+      "display_name": "Staples",
       "description": "Electronics Company"
     }
   ]
