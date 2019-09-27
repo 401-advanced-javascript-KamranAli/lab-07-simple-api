@@ -10,7 +10,7 @@ const get = (req, res) => {
 const post = (req, res) => {
   res.end(JSON.stringify(
     { name: 'Jim Halpert' }
-  ))
+  ));
 };
 
 const methods = {

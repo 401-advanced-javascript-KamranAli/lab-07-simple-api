@@ -19,9 +19,6 @@
       "type": "Quality Assruance"
     },
     {
-      "_id": 4
-    },
-    {
       "_id": 5,
       "name": "Michale Scott",
       "display_name": "Michael",
@@ -32,6 +29,12 @@
       "name": "Dwight Schrute",
       "display_name": "Dwight",
       "description": "A.A.R.M"
+    },
+    {
+      "_id": 7,
+      "name": "Angela Martin",
+      "display_name": "Angela",
+      "description": "Head of Accounting"
     }
   ],
   "products": [
@@ -43,17 +46,17 @@
       "description": "Paper Company"
     },
     {
-      "_id": 2,
-      "category": "Electronics",
-      "name": "Sabre Electronics Compant",
-      "display_name": "Dunder Mifflin",
-      "description": "Electronics Company"
-    },
-    {
       "_id": 3,
       "category": "Electronics",
       "name": "Staples",
       "display_name": "Staples",
+      "description": "Electronics Company"
+    },
+    {
+      "_id": 4,
+      "category": "Electronics",
+      "name": "Office Max",
+      "display_name": "Office Max",
       "description": "Electronics Company"
     }
   ]

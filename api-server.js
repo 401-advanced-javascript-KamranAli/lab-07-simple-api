@@ -17,7 +17,7 @@ const server = http.createServer((req, res) => {
 
   res.statusCode = 200;
 
-  if(req.url.startsWith('/api')) {
+  if (req.url.startsWith('/api')) {
     res.setHeader('content-type', 'application/json');
 
     const handler = routes[resource] || notFound;
