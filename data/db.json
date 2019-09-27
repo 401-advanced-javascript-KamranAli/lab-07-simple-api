@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Jim Halpert",
+      "display_name": "Jim",
+      "description": "Sales"
+    },
+    {
+      "_id": 2,
+      "name": "Pam Beesly",
+      "display_name": "Pam",
+      "type": "Reception"
+    },
+    {
+      "_id": 3,
+      "name": "Creed Bratton",
+      "display_name": "Creed",
+      "type": "Quality Assruance"
+    },
+    {
+      "_id": 5,
+      "name": "Michale Scott",
+      "display_name": "Michael",
+      "description": "Manager"
+    },
+    {
+      "_id": 6,
+      "name": "Dwight Schrute",
+      "display_name": "Dwight",
+      "description": "A.A.R.M"
+    },
+    {
+      "_id": 7,
+      "name": "Angela Martin",
+      "display_name": "Angela",
+      "description": "Head of Accounting"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Paper Sales",
+      "name": "Dunder Mifflin Paper Company Inc.",
+      "display_name": "Dunder Mifflin",
+      "description": "Paper Company"
+    },
+    {
+      "_id": 3,
+      "category": "Electronics",
+      "name": "Staples",
+      "display_name": "Staples",
+      "description": "Electronics Company"
+    },
+    {
+      "_id": 4,
+      "category": "Electronics",
+      "name": "Office Max",
+      "display_name": "Office Max",
+      "description": "Electronics Company"
+    }
+  ]
+}
